@@ -7,7 +7,6 @@ package com.cristian_e_douglas.registro_de_aluno2.model.dao;
 
 import com.cristian_e_douglas.registro_de_aluno2.model.Aluno;
 import com.cristian_e_douglas.registro_de_aluno2.model.Curso;
-import com.cristian_e_douglas.registro_de_aluno2.model.DAO;
 import com.cristian_e_douglas.registro_de_aluno2.view.Main;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

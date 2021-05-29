@@ -6,7 +6,6 @@
 package com.cristian_e_douglas.registro_de_aluno2.model.dao;
 
 import com.cristian_e_douglas.registro_de_aluno2.model.Curso;
-import com.cristian_e_douglas.registro_de_aluno2.model.DAO;
 import java.util.List;
 
 /**

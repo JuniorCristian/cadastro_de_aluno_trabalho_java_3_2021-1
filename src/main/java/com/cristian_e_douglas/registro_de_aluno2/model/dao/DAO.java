@@ -1,4 +1,4 @@
-package com.cristian_e_douglas.registro_de_aluno2.model;
+package com.cristian_e_douglas.registro_de_aluno2.model.dao;
 
 import java.util.List;
 
