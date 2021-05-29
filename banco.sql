@@ -6,7 +6,7 @@ create table cursos(
 	id_curso int not null auto_increment,
     nome varchar(100),
     professor varchar(100),
-    foto_prfossor varchar(100),
+    foto_professor varchar(100),
     PRIMARY KEY (id_curso)
 );
 
